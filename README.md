@@ -1,6 +1,6 @@
 # Google-stock-prediction-with-LSTM-RNN
 Introduction Video：https://youtu.be/vMjsQQHLtBc
-Google Stock Prediction報告補充內容
+## Google Stock Prediction補充內容
 
 模型正則化技術
 	Dropout：每個LSTM層和全連接層之間都應用了Dropout層，這有助於防止模型過度擬合。
